@@ -8,17 +8,7 @@
   
   <h3> Ofc Location : Ameerpet, Hyderbad </h3>
   
-  <h1> Learn Here.. Lead Anywhere..!! </h1>
-
-  <h4> Welcome to goa singam </h4>
-  
-  <h5> my name is lakhan </h5>
-   
-  <h6> Ganpati bappa morya </h6>
-  
-  <h7> Sundarban is very good musium </h7>
-  
-  <h8> Welcome to pune green city </h8>
+  <h1> My name is anthony gol service </h1>
 
 </body>
 </html>
