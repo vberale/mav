@@ -8,9 +8,7 @@
   
   <h3> Ofc Location : Ameerpet, Hyderbad </h3>
   
-  <h1> My name is anthony gol service </h1>
-
-  <h4> welcome to goa singam </h4>
+  <h1> Welcome mr India how may i help you </h1>
 
 </body>
 </html>
